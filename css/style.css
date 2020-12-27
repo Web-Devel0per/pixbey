@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("/img/backgraund.png");
+    background-image: url("https://web-devel0per.github.io/pixbey/img/backgraund.png");
     background-size: 100%;
     background-repeat: no-repeat;
     font-family: 'Poppins', sans-serif;
